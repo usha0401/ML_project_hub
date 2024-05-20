@@ -14,11 +14,14 @@ Random Forest is a powerful ensemble learning technique used for classification 
            
 LogisticRegression                	98.22 %                                	97.75 %
 
-DecisionTreeClassifier              100.0 %                                 97.2 %
 
-SVC                                 96.58 %                              	  96.85 %
+DecisionTreeClassifier                  100.0 %                                 97.2 %
 
-RandomForestClassifier              100.0 %                                 98.2 %
+
+SVC                                     96.58 %                              	96.85 %
+
+
+RandomForestClassifier                  100.0 %                                 98.2 %
 
 	
 
