@@ -21,7 +21,7 @@ DecisionTreeClassifier                  100.0 %                                 
 SVC                                     96.58 %                              	96.85 %
 
 
-RandomForestClassifier                  100.0 %                                 98.2 %
+RandomForestClassifier                  99.9 %                                 98.2 %
 
 	
 
